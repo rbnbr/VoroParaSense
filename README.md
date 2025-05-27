@@ -45,6 +45,15 @@ Do not use that version for regular k-Means but refer to the original [pycluster
 - To run the Jupyter Notebooks in the ./examples/notebooks/ directory, select the virtual environment as Python Interpreter first, then run them.
 
 # Cite
-[paper](https://doi.org/10.1111/cgf.70122)
-
-tbd.
+````
+@article{https://doi.org/10.1111/cgf.70122,
+  author = {Bauer, R. and Evers, M. and Ngo, Q. Q. and Reina, G. and Frey, S. and Sedlmair, M.},
+  title = {Voronoi Cell Interface-Based Parameter Sensitivity Analysis for Labeled Samples},
+  journal = {Computer Graphics Forum},
+  pages = {e70122},
+  keywords = {CCS Concepts, • Human-centered computing → Information visualization, Visual analytics},
+  doi = {https://doi.org/10.1111/cgf.70122},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70122},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70122},
+}
+````
